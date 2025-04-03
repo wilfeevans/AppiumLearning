@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-31T20:26:01 IST" name="AppiumTest" finished-at="2025-03-31T20:28:05 IST" duration-ms="124225">
+    <groups>
+    </groups>
+    <test started-at="2025-03-31T20:26:01 IST" name="FlipBoard" finished-at="2025-03-31T20:26:55 IST" duration-ms="54646">
+      <class name="TestCases.FlipBoardLoginTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:TestCases.FlipBoardLoginTest@64c63c79]" started-at="2025-03-31T20:26:01 IST" name="init" finished-at="2025-03-31T20:26:22 IST" duration-ms="20739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="validateGetStarted()[pri:1, instance:TestCases.FlipBoardLoginTest@64c63c79]" started-at="2025-03-31T20:26:22 IST" name="validateGetStarted" finished-at="2025-03-31T20:26:22 IST" duration-ms="517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGetStarted -->
+        <test-method signature="chooseTopic()[pri:2, instance:TestCases.FlipBoardLoginTest@64c63c79]" started-at="2025-03-31T20:26:22 IST" name="chooseTopic" finished-at="2025-03-31T20:26:29 IST" duration-ms="6149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chooseTopic -->
+        <test-method signature="skippingNow()[pri:3, instance:TestCases.FlipBoardLoginTest@64c63c79]" started-at="2025-03-31T20:26:29 IST" name="skippingNow" finished-at="2025-03-31T20:26:35 IST" duration-ms="6319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- skippingNow -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:TestCases.FlipBoardLoginTest@64c63c79]" started-at="2025-03-31T20:26:35 IST" name="quitDriver" finished-at="2025-03-31T20:26:55 IST" duration-ms="20609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- TestCases.FlipBoardLoginTest -->
+    </test> <!-- FlipBoard -->
+    <test started-at="2025-03-31T20:26:57 IST" name="HeadSelection" finished-at="2025-03-31T20:28:05 IST" duration-ms="67847">
+      <class name="TestCases.HeaderSelectionTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:TestCases.HeaderSelectionTest@2e1ef60]" started-at="2025-03-31T20:26:57 IST" name="init" finished-at="2025-03-31T20:27:10 IST" duration-ms="12938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="validateGetStarted()[pri:1, instance:TestCases.HeaderSelectionTest@2e1ef60]" started-at="2025-03-31T20:27:10 IST" name="validateGetStarted" finished-at="2025-03-31T20:27:19 IST" duration-ms="8426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGetStarted -->
+        <test-method signature="getHeader()[pri:2, instance:TestCases.HeaderSelectionTest@2e1ef60]" started-at="2025-03-31T20:27:19 IST" name="getHeader" finished-at="2025-03-31T20:27:43 IST" duration-ms="24278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getHeader -->
+        <test-method signature="getFooter()[pri:3, instance:TestCases.HeaderSelectionTest@2e1ef60]" started-at="2025-03-31T20:27:43 IST" name="getFooter" finished-at="2025-03-31T20:27:44 IST" duration-ms="1449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFooter -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:TestCases.HeaderSelectionTest@2e1ef60]" started-at="2025-03-31T20:27:44 IST" name="quitDriver" finished-at="2025-03-31T20:28:05 IST" duration-ms="20722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- TestCases.HeaderSelectionTest -->
+    </test> <!-- HeadSelection -->
+  </suite> <!-- AppiumTest -->
+</testng-results>

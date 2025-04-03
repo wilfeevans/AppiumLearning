@@ -1,0 +1,4 @@
+INFO    2025-03-31 20:26:57,727 [main] Base.BaseTest  - Appium Server Started
+INFO    2025-03-31 20:26:57,727 [main] Base.BaseTest  - AndroidConfigPropertyProperty File Loaded
+INFO    2025-03-31 20:28:05,574 [main] Base.BaseTest  - Test Case Execution Completed
+INFO    2025-03-31 20:28:05,574 [main] Base.BaseTest  - Appium Server Stopped

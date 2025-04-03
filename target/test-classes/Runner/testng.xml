@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="AppiumTest">
+	
+
+	<listeners>
+		<listener class-name="ExtentListeners.ExtentListeners"></listener>
+	</listeners>
+
+	
+  <test name="FlipBoard">
+    <classes>
+      <class name="TestCases.FlipBoardLoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="HeadSelection">
+    <classes>
+      <class name="TestCases.HeaderSelectionTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
